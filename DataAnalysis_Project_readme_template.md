@@ -1,121 +1,94 @@
-Use this template as an outline for your data analytics projects. Include one ReadME per repository, with each repository storing one project.
+Here is the rewritten version of your template while preserving the overall structure:
 
-# Project Background
-Backround about the company, including the industry, active years, business model, and key business metrics. Explain this from the POV of a data analyst who is working at the company.
+---
 
-Insights and recommendations are provided on the following key areas:
+# Project Overview
+This section provides context for the project, the organization, and the industry, including its years of operation, business model, and critical performance metrics. The explanation is framed from the perspective of a data analyst working within the company.
 
-- **Category 1:** 
-- **Category 2:** 
-- **Category 3:** 
-- **Category 4:** 
+Key insights and actionable recommendations are detailed across the following focus areas:
 
-The SQL queries used to inspect and clean the data for this analysis can be found here [link].
+- **Focus Area 1:**  
+- **Focus Area 2:**  
+- **Focus Area 3:**  
+- (or more if any)
 
-Targed SQL queries regarding various business questions can be found here [link].
+The SQL scripts used for data inspection and cleaning are accessible here: [link].  
+SQL queries addressing specific business questions can be found here: [link].  
+An interactive Tableau dashboard for visualizing and exploring sales trends is available here: [link].  
 
-An interactive Tableau dashboard used to report and explore sales trends can be found here [link].
+---
 
+# Data Structure & Initial Assessments
 
+The company’s primary database structure consists of four tables: Table1, Table2, and Table3 (or more if any), encompassing a total of X records. Below is a description of each table:  
 
-# Data Structure & Initial Checks
+- **Table 1:**  
+- **Table 2:**  
+- **Table 3:**  
+- (or more if any)
+  
+[Insert Entity Relationship Diagram here]  
 
-The companies main database structure as seen below consists of four tables: table1, table2, table3, table4, with a total row count of X records. A description of each table is as follows:
-- **Table 2:**
-- **Table 3:**
-- **Table 4:**
-- **Table 5:**
-
-[Entity Relationship Diagram here]
-
-
+---
 
 # Executive Summary
 
-### Overview of Findings
+### Key Findings  
 
-Explain the overarching findings, trends, and themes in 2-3 sentences here. This section should address the question: "If a stakeholder were to take away 3 main insights from your project, what are the most important things they should know?" You can put yourself in the shoes of a specific stakeholder - for example, a marketing manager or finance director - to think creatively about this section.
+Provide a high-level summary of the critical findings, trends, and themes in 2–3 sentences. This section should highlight the three most important insights for stakeholders. Consider tailoring this summary to the interests of a specific stakeholder group, such as a marketing manager or financial director.  
 
-[Visualization, including a graph of overall trends or snapshot of a dashboard]
+[Include a key visualization, such as a trend graph or dashboard snapshot]  
 
+---
 
+# Detailed Insights  
+It is good to have 3 to 5 insights per category.
 
-# Insights Deep Dive
-### Category 1:
+### Focus Area 1:  
 
-* **Main insight 1.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
-  
-* **Main insight 2.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
-  
-* **Main insight 3.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
-  
-* **Main insight 4.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+- **Insight 1:** Add supporting analysis details, such as time frames, quantitative metrics, and observed trends.  
+- **Insight 2:** Add supporting analysis details, such as time frames, quantitative metrics, and observed trends.  
+- **Insight 3:** Add supporting analysis details, such as time frames, quantitative metrics, and observed trends.  
+- (or more if any)
 
-[Visualization specific to category 1]
+[Include visualizations relevant to Focus Area 1]  
 
+### Focus Area 2:  
 
-### Category 2:
+- **Insight 1:** Add supporting analysis details, such as time frames, quantitative metrics, and observed trends.  
+- **Insight 2:** Add supporting analysis details, such as time frames, quantitative metrics, and observed trends.  
+- **Insight 3:** Add supporting analysis details, such as time frames, quantitative metrics, and observed trends.  
+- (or more if any) 
 
-* **Main insight 1.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
-  
-* **Main insight 2.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
-  
-* **Main insight 3.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
-  
-* **Main insight 4.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+[Include visualizations relevant to Focus Area 2]  
 
-[Visualization specific to category 2]
+### Focus Area 3:  
 
+- **Insight 1:** Add supporting analysis details, such as time frames, quantitative metrics, and observed trends.  
+- **Insight 2:** Add supporting analysis details, such as time frames, quantitative metrics, and observed trends.  
+- **Insight 3:** Add supporting analysis details, such as time frames, quantitative metrics, and observed trends.  
+- (or more if any)
 
-### Category 3:
+[Include visualizations relevant to Focus Area 3]  
 
-* **Main insight 1.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
-  
-* **Main insight 2.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
-  
-* **Main insight 3.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
-  
-* **Main insight 4.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+---
 
-[Visualization specific to category 3]
+# Recommendations  
 
+Based on the findings outlined above, the following actions are recommended for [specific stakeholder team]:  
 
-### Category 4:
+- **Observation:** Provide an observation that leads to a proposed action. **Recommendation:** Offer actionable guidance related to this observation.  
+- **Observation:** Provide an observation that leads to a proposed action. **Recommendation:** Offer actionable guidance related to this observation.  
+- **Observation:** Provide an observation that leads to a proposed action. **Recommendation:** Offer actionable guidance related to this observation.  
 
-* **Main insight 1.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
-  
-* **Main insight 2.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
-  
-* **Main insight 3.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
-  
-* **Main insight 4.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+---
 
-[Visualization specific to category 4]
+# Assumptions & Limitations  
 
+Throughout the analysis, several assumptions and constraints were applied to address data challenges. These are detailed below:  
 
+- **Assumption 1:** (e.g., Missing country records were assumed to represent US-based customers and were recoded accordingly.)  
+- **Assumption 2:** (e.g., Missing May 2023 data was imputed using historical trends and May 2022 data.)  
+- **Assumption 3:** (e.g., 3% of refund dates contained invalid values; these records were excluded from the analysis.)  
 
-# Recommendations:
-
-Based on the insights and findings above, we would recommend the [stakeholder team] to consider the following: 
-
-* Specific observation that is related to a recommended action. **Recommendation or general guidance based on this observation.**
-  
-* Specific observation that is related to a recommended action. **Recommendation or general guidance based on this observation.**
-  
-* Specific observation that is related to a recommended action. **Recommendation or general guidance based on this observation.**
-  
-* Specific observation that is related to a recommended action. **Recommendation or general guidance based on this observation.**
-  
-* Specific observation that is related to a recommended action. **Recommendation or general guidance based on this observation.**
-  
-
-
-# Assumptions and Caveats:
-
-Throughout the analysis, multiple assumptions were made to manage challenges with the data. These assumptions and caveats are noted below:
-
-* Assumption 1 (ex: missing country records were for customers based in the US, and were re-coded to be US citizens)
-  
-* Assumption 1 (ex: data for December 2021 was missing - this was imputed using a combination of historical trends and December 2020 data)
-  
-* Assumption 1 (ex: because 3% of the refund date column contained non-sensical dates, these were excluded from the analysis)
+--- 
